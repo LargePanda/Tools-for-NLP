@@ -1,1 +1,1 @@
-(S1(S(NP(PRP I))(VP(VBD ate)(NP(DT an)(NN apple))(SBAR(WHADVP(WRB when))(S(NP(PRP I))(VP(VBD was)(NP(NP(NN interview))(PP(IN at)(NP(NNP Apple))))))))(. .)))
+(S1(S(NP(PRP I))(VP(VBD ate)(NP(DT an)(NN apple))(SBAR(WHADVP(WRB when))(S(NP(PRP I))(VP(VBD was)(VP(VBN interviewed)(PP(IN at)(NP(NNP Apple))))))))(. .)))
